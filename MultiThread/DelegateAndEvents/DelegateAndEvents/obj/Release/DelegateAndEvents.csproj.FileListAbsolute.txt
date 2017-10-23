@@ -1,0 +1,13 @@
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\bin\Release\DelegateAndEvents.dll.config
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\bin\Release\DelegateAndEvents.dll
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\bin\Release\DelegateAndEvents.pdb
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.csproj.CoreCompileInputs.cache
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.dll
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.pdb
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.csprojResolveAssemblyReference.cache
+C:\RandDTemp\MultiThread\DelegateAndEvents\DelegateAndEvents\bin\Release\DelegateAndEvents.dll.config
+C:\RandDTemp\MultiThread\DelegateAndEvents\DelegateAndEvents\bin\Release\DelegateAndEvents.dll
+C:\RandDTemp\MultiThread\DelegateAndEvents\DelegateAndEvents\bin\Release\DelegateAndEvents.pdb
+C:\RandDTemp\MultiThread\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.csproj.CoreCompileInputs.cache
+C:\RandDTemp\MultiThread\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.dll
+C:\RandDTemp\MultiThread\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.pdb

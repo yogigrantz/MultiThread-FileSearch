@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThread", "MultiThread\MultiThread.csproj", "{EFB6F1EE-C743-4D10-A7A0-9C8380534CE3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateAndEvents", "DelegateAndEvents\DelegateAndEvents\DelegateAndEvents.csproj", "{E070C5C3-844A-4B05-8F02-DD132038DD51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateAndEvents", "DelegateAndEvents\DelegateAndEvents.csproj", "{E070C5C3-844A-4B05-8F02-DD132038DD51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EFB6F1EE-C743-4D10-A7A0-9C8380534CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFB6F1EE-C743-4D10-A7A0-9C8380534CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFB6F1EE-C743-4D10-A7A0-9C8380534CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFB6F1EE-C743-4D10-A7A0-9C8380534CE3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E070C5C3-844A-4B05-8F02-DD132038DD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E070C5C3-844A-4B05-8F02-DD132038DD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E070C5C3-844A-4B05-8F02-DD132038DD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {41B049BC-32BA-4549-87DA-2018B3B467F5}
+		SolutionGuid = {794B6D5D-F4B8-4B44-AF1C-C8548288E622}
 	EndGlobalSection
 EndGlobal

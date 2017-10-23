@@ -1,0 +1,7 @@
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\bin\Debug\DelegateAndEvents.pdb
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\obj\Debug\DelegateAndEvents.csproj.CoreCompileInputs.cache
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\obj\Debug\DelegateAndEvents.pdb
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\bin\Debug\DelegateAndEvents.dll.config
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\bin\Debug\DelegateAndEvents.dll
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\obj\Debug\DelegateAndEvents.dll
+C:\RandDTemp\DelegateAndEvents\DelegateAndEvents\obj\Debug\DelegateAndEvents.csprojResolveAssemblyReference.cache
