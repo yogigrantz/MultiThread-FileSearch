@@ -11,3 +11,16 @@ C:\RandDTemp\MultiThread\MultiThread\obj\Release\MultiThread.csproj.GenerateReso
 C:\RandDTemp\MultiThread\MultiThread\obj\Release\MultiThread.csproj.CoreCompileInputs.cache
 C:\RandDTemp\MultiThread\MultiThread\obj\Release\MultiThread.exe
 C:\RandDTemp\MultiThread\MultiThread\obj\Release\MultiThread.pdb
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\MultiThread\bin\Release\MultiThread.exe.config
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\MultiThread\bin\Release\MultiThread.exe
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\MultiThread\bin\Release\MultiThread.pdb
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\MultiThread\bin\Release\DelegateAndEvents.dll
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\MultiThread\bin\Release\DelegateAndEvents.pdb
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\MultiThread\bin\Release\DelegateAndEvents.dll.config
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\MultiThread\obj\Release\MultiThread.csprojResolveAssemblyReference.cache
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\MultiThread\obj\Release\MultiThread.Form1.resources
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\MultiThread\obj\Release\MultiThread.Properties.Resources.resources
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\MultiThread\obj\Release\MultiThread.csproj.GenerateResource.Cache
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\MultiThread\obj\Release\MultiThread.csproj.CoreCompileInputs.cache
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\MultiThread\obj\Release\MultiThread.exe
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\MultiThread\obj\Release\MultiThread.pdb

@@ -11,3 +11,9 @@ C:\RandDTemp\MultiThread\DelegateAndEvents\DelegateAndEvents\bin\Release\Delegat
 C:\RandDTemp\MultiThread\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.csproj.CoreCompileInputs.cache
 C:\RandDTemp\MultiThread\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.dll
 C:\RandDTemp\MultiThread\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.pdb
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\DelegateAndEvents\DelegateAndEvents\bin\Release\DelegateAndEvents.dll.config
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\DelegateAndEvents\DelegateAndEvents\bin\Release\DelegateAndEvents.dll
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\DelegateAndEvents\DelegateAndEvents\bin\Release\DelegateAndEvents.pdb
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.dll
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.pdb
