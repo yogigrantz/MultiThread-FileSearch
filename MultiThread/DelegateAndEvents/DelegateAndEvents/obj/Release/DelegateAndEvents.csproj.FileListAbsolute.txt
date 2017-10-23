@@ -17,3 +17,4 @@ C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\DelegateAndEven
 C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.csproj.CoreCompileInputs.cache
 C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.dll
 C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.pdb
+C:\Users\ygrantz\Source\Repos\MultiThread-FileSearch\MultiThread\DelegateAndEvents\DelegateAndEvents\obj\Release\DelegateAndEvents.csprojResolveAssemblyReference.cache

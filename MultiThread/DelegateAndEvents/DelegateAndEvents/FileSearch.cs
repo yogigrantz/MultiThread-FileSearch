@@ -16,7 +16,6 @@ namespace DelegateAndEvents
             {
                 Thread thread = new Thread(() =>
                 {
-                    Console.WriteLine(string.Format("Folder: {0} =====", s));
                     STFileSearch stf = new STFileSearch();
                     stf.OnFilesFound += new DGGetResult(getEvent);
                     stf.Search(s, pattern);
